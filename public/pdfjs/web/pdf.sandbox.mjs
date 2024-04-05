@@ -22,7 +22,7 @@
 
 /******/ // The require scope
 /******/ var __webpack_require__ = {};
-/******/
+/******/ 
 /************************************************************************/
 /******/ /* webpack/runtime/define property getters */
 /******/ (() => {
@@ -35,12 +35,12 @@
 /******/ 		}
 /******/ 	};
 /******/ })();
-/******/
+/******/ 
 /******/ /* webpack/runtime/hasOwnProperty shorthand */
 /******/ (() => {
 /******/ 	__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
 /******/ })();
-/******/
+/******/ 
 /************************************************************************/
 var __webpack_exports__ = globalThis.pdfjsSandbox = {};
 
@@ -238,4 +238,4 @@ function QuickJSSandbox() {
 var __webpack_exports__QuickJSSandbox = __webpack_exports__.QuickJSSandbox;
 export { __webpack_exports__QuickJSSandbox as QuickJSSandbox };
 
-//# sourceMappingURL=pdf.sandbox.js.map
+//# sourceMappingURL=pdf.sandbox.mjs.map

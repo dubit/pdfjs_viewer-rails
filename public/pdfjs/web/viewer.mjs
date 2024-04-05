@@ -4512,7 +4512,7 @@ const defaultOptions = {
     kind: OptionKind.WORKER
   },
   workerSrc: {
-    value: "/pdfjs/web/pdf.worker.js'",
+    value: "/pdfjs/web/pdf.worker.mjs'",
     kind: OptionKind.WORKER
   }
 };
@@ -4522,7 +4522,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER
   };
   defaultOptions.sandboxBundleSrc = {
-    value: "/pdfjs/web/pdf.sandbox.js",
+    value: "/pdfjs/web/pdf.sandbox.mjs",
     kind: OptionKind.VIEWER
   };
   defaultOptions.viewerCssTheme = {

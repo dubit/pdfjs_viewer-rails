@@ -22,7 +22,7 @@
 
 /******/ // The require scope
 /******/ var __webpack_require__ = {};
-/******/
+/******/ 
 /************************************************************************/
 /******/ /* webpack/runtime/define property getters */
 /******/ (() => {
@@ -35,12 +35,12 @@
 /******/ 		}
 /******/ 	};
 /******/ })();
-/******/
+/******/ 
 /******/ /* webpack/runtime/hasOwnProperty shorthand */
 /******/ (() => {
 /******/ 	__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
 /******/ })();
-/******/
+/******/ 
 /************************************************************************/
 var __webpack_exports__ = globalThis.pdfjsWorker = {};
 
@@ -57168,4 +57168,4 @@ const pdfjsBuild = '9e14d04fd';
 var __webpack_exports__WorkerMessageHandler = __webpack_exports__.WorkerMessageHandler;
 export { __webpack_exports__WorkerMessageHandler as WorkerMessageHandler };
 
-//# sourceMappingURL=pdf.worker.js.map
+//# sourceMappingURL=pdf.worker.mjs.map
