@@ -4512,7 +4512,7 @@ const defaultOptions = {
     kind: OptionKind.WORKER
   },
   workerSrc: {
-    value: "/pdfjs/web/pdf.worker.js'",
+    value: "/pdfjs/web/pdf.worker.js",
     kind: OptionKind.WORKER
   }
 };
